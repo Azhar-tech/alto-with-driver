@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alto-with-driver.vercel.app/sitemap.xml
